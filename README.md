@@ -21,7 +21,7 @@ API REST desarrollada en .NET 9 para la gestion de pacientes. Permite operacione
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://tu-repositorio.git
+git clone https://github.com/IAS145/patients.git
 cd PatientsApi
 ```
 
@@ -214,24 +214,8 @@ Skip((page - 1) * pageSize).Take(pageSize)
 
 Permite consultas optimizadas y demuestra integracion con SQL nativo.
 
-### ✔ Pruebas unitarias
-
-* xUnit + EF Core InMemory
-* Validacion de logica de negocio
-
----
-
-# 🚀 Mejoras futuras
-
-* Implementar Clean Architecture
-* Autenticacion con JWT
-* Logging (Serilog)
-* Validaciones con FluentValidation
-* Docker
-
----
 
 # 👨‍💻 Autor
 
-Proyecto desarrollado como prueba técnica en .NET.
-Readme
+Edgar Leonardo Velasquez Villar
+edgar Leonar555@gmail.com
