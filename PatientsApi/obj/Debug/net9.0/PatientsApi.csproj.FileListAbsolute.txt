@@ -1,0 +1,8 @@
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.csproj.AssemblyReference.cache
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.AssemblyInfoInputs.cache
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.AssemblyInfo.cs
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.csproj.CoreCompileInputs.cache
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeEd729\PatientsApi\obj\Debug\net9.0\PatientsApi.MvcApplicationPartsAssemblyInfo.cache
