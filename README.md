@@ -218,4 +218,4 @@ Permite consultas optimizadas y demuestra integracion con SQL nativo.
 # 👨‍💻 Autor
 
 Edgar Leonardo Velasquez Villar
-edgar Leonar555@gmail.com
+edgarleonar555@gmail.com
